@@ -8,10 +8,10 @@ This project faithfully replicates the look and feel of the Taylor Stitch e-comm
 ## 📸 Previews
 
 ### Home Page (`index.html`)
-![Taylor Stitch Home Page Preview](./index-preview.png)
+<img src="https://res.cloudinary.com/dwpjwccxd/image/upload/q_auto/f_auto/v1775728902/taylorstitch-home_ll2bcw.png" alt="Taylor Stitch Home Page Preview" width="100%" />
 
 ### Shirts & Sweaters Page (`secondPage.html`)
-![Taylor Stitch Second Page Preview](./secondpage-preview.png)
+<img src="https://res.cloudinary.com/dwpjwccxd/image/upload/q_auto/f_auto/v1775728909/taylorstitch-shirts_sweater_n37wxp.png" alt="Taylor Stitch Second Page Preview" width="100%" />
 
 ## ✨ Key Features
 - **Fully Responsive Design**: Optimized for 1200px, 992px, 768px, and 576px breakpoints to guarantee an excellent mobile, tablet, and desktop experience.
